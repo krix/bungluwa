@@ -1,0 +1,10 @@
+# Build outputs and generated files
+build/
+
+# Local scratch files
+test2.txt
+
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+*.swp
